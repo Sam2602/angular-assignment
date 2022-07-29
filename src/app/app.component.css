@@ -1,0 +1,6 @@
+.sideBar{
+    flex:0 0 15%;
+}
+.mainContent{
+    flex: 0 0 85%;
+}
